@@ -16,4 +16,4 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Working [DEMO]()
+Working [DEMO](http://shoppinglistappdemo.s3-website.us-east-2.amazonaws.com/)
