@@ -1,0 +1,1 @@
+export { getShoppingListItemsData } from "./shoppingListHistoryService";
